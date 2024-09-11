@@ -2,5 +2,20 @@ h1{
     color: red;
 }
 img{
-    border-radius: 10px;
+    border-radius: 40px;
+}
+
+#links {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.red-text{   
+    color: red;
 }
